@@ -1,7 +1,7 @@
 # Cubix Cloud-Native Application Development Training: cloud-native requirements (PostgreSQL deployment)
 Fork this repository for the practice session.
 
-## How to start the Chart
+## How to start the Chart 
 
 Replace password setting.
 
